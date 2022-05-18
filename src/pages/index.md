@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Connor Chen
 image: /img/home-jumbotron.jpg
 heading: Connor Chen
 subheading: Support sustainable farming while enjoying a cup
